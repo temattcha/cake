@@ -1,3 +1,7 @@
+Sistema V2.1.6:
+- Regras redefinidas para lançamento de licenças para os estados TO, MS, PA;
+- Datas deverão ser preenchidas completamente agora
+
 Sistema V2.1.5:
 - Correção do bug -> campo "data" não enviar informação ao banco
 
